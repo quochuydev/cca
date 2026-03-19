@@ -1,0 +1,23 @@
+{
+  "name": "cca-domain1",
+  "version": "1.0.0",
+  "description": "CCA Exam - Domain 1: Agentic Architecture & Orchestration",
+  "type": "module",
+  "scripts": {
+    "task1": "tsx src/domain1/1-agentic-loop.ts",
+    "task2": "tsx src/domain1/2-multi-agent.ts",
+    "task3": "tsx src/domain1/3-hooks.ts",
+    "task4": "tsx src/domain1/4-workflow-enforcement.ts",
+    "task5": "tsx src/domain1/5-task-decomposition.ts",
+    "task6": "tsx src/domain1/6-session-management.ts"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.52.0",
+    "@anthropic-ai/claude-agent-sdk": "^0.2.79"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.0",
+    "tsx": "^4.7.0",
+    "@types/node": "^20.0.0"
+  }
+}
