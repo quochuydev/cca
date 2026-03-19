@@ -146,23 +146,23 @@ Primary domains: Prompt Engineering & Structured Output, Context Management & Re
 
 ## Domain 1: Agentic Architecture & Orchestration
 
-`./domain1.md`
+[domain1.md](./domain1.md)
 
 ## Domain 2: Tool Design & MCP Integration
 
-`./domain2.md`
+[domain2.md](./domain2.md)
 
 ## Domain 3: Claude Code Configuration & Workflows
 
-`./domain3.md`
+[domain3.md](./domain3.md)
 
 ## Domain 4: Prompt Engineering & Structured Output
 
-`./domain4.md`
+[domain4.md](./domain4.md)
 
 ## Domain 5: Context Management & Reliability
 
-`./domain5.md`
+[domain5.md](./domain5.md)
 
 ## Sample Questions
 
